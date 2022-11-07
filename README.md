@@ -117,17 +117,39 @@
 
 2. **District Growth Percentage**
    + After comparing the districts across all 4 metrics, these are results:
-    | Top Performing districts | Bottom Performing districts | Zero Impact districts |
-    | ---------- |---------- | ------------ |
-    | قها |  أبو رواش |  دار السلام |
-    | بولاق | حدائق الأهرام | مدينة 15 مايو |
-    | المعتمدية | المقط | الزمالك |
-    | منشية ناصر | الدويقة | سريقاوس |
-    | الجمالية | مدينة النهضة |  |
-    | أوسيم | عمرانيه 3 |  |
-    | التجمع التالت | مساكن شيراتون |  |
-    |  | الوايلي |  |
-    |  | ميت حلفا |  |
+   <table>
+        <tr>
+            <td> <b>Top Performing districts</b> </td><td> <b>Bottom Performing districts</b> </td><td> <b>Zero Impact districts</b> </td>
+        </tr>
+        <tr>
+            <td> قها </td><td> أبو رواش </td><td> دار السلام </td>
+        </tr>
+        <tr>
+            <td> بولاق </td><td> حدائق الأهرام </td><td> مدينة 15 مايو </td>
+        </tr>
+        <tr>
+            <td> المعتمدية </td><td> المقط </td><td> الزمالك </td>
+        </tr>
+        <tr>
+            <td> منشية ناصر </td><td> الدويقة </td><td> سريقاوس </td>
+        </tr>
+        <tr>
+            <td> الجمالية </td><td> مدينة النهضة </td><td>  </td>
+        </tr>
+        <tr>
+            <td> أوسيم </td><td> عمرانيه 3 </td><td>  </td>
+        </tr>
+        <tr>
+            <td> التجمع التالت </td><td> مساكن شيراتون </td><td>  </td>
+        </tr>
+        <tr>
+            <td>  </td><td> الوايلي </td><td>  </td>
+        </tr>
+        <tr>
+            <td>  </td><td> ميت حلفا </td><td>  </td>
+        </tr>
+    </table>
+    
    + My recommendations are:
      1. More investing into the Top performing districts.
         * According to the evaluation metrics these districts are growing at very decent base in many aspects which indicates a potential good investment.
