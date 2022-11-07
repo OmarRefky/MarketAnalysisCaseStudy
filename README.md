@@ -2,7 +2,7 @@
 - Inspected the data Data Shape, Summary Statistics, Missing values, Datatypes and the details of 4 Categorical Variables.
 - Cleaned the data from 3 problems: negative prices, duplicated rows and wrong datatypes.
 - Engineered 2 new features.
-- Analyzed the data answering 8 questions and extracting insights.
+- Analyzed the data answering 8 questions and extracting insights using techniques such as: Pivot tables, Time series analysis and more.
 
 ------------
 
